@@ -1,0 +1,30 @@
+/***************************** CLASS SELECTORS********************/
+
+
+.pizza { 
+    background-color: cyan;
+    border-radius: 230px;
+}
+
+.brocolli {
+    background-color: darkcyan;
+}
+/***************************** ID SELECTORS********************/
+#heading {
+    color:rgb(9, 4, 15);
+}
+
+h1{
+    color:aqua;
+    font-size: 99px;
+}
+
+
+
+body{
+    background-color: rgb(160, 72, 72);
+}
+
+img{
+    background-color: burlywood;
+}
